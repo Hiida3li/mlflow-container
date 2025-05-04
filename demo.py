@@ -43,7 +43,7 @@ def main(param_1, param_2):
         mlflow.log_param('param_1', param_1)
         mlflow.log_param('param_2', param_2)
         mlflow.log_metric('mean', eval(param_1, param_2))
-        print("✅ Run logged to MLflow.")
+        print("Run logged to MLflow.")
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
