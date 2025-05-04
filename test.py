@@ -8,3 +8,6 @@ except:
 
     
 exp = mlflow.set_experiment('test_something')
+
+with mlflow.start_run() as run:
+    
