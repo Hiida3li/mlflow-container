@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/01fd7a1999b34c57a0b2fa48542bdb79/artifacts
+end_time: 1746384729145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01fd7a1999b34c57a0b2fa48542bdb79
+run_name: rumbling-moose-884
+run_uuid: 01fd7a1999b34c57a0b2fa48542bdb79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746384729140
+status: 3
+tags: []
+user_id: mahmoud

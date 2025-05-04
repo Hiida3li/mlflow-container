@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6be8817f60674d7694e19a1c6bf377c9/artifacts
+end_time: 1746384837079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6be8817f60674d7694e19a1c6bf377c9
+run_name: burly-shrew-750
+run_uuid: 6be8817f60674d7694e19a1c6bf377c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746384837074
+status: 3
+tags: []
+user_id: mahmoud
