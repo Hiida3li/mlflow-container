@@ -25,4 +25,4 @@ if __name__ == '__main__':
     parser.add_argument('--param_2', '-p2', default=20, type=int)
     args = parser.parse_args()
 
-    main(param_1=args.param1, param_2=args.param_2)
+    main(param_1=args.param_1, param_2=args.param_2)
