@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/50ff1d9fd693449aa60cd3c6b60643a4/artifacts
+end_time: 1746385220534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50ff1d9fd693449aa60cd3c6b60643a4
+run_name: enthused-zebra-544
+run_uuid: 50ff1d9fd693449aa60cd3c6b60643a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746385220525
+status: 3
+tags: []
+user_id: mahmoud
