@@ -21,9 +21,8 @@ def mani(param_1, param_2):
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(prog='myprogram')
-    parser.add_argument('--param_1', '-p1', default=10)
-    parser.add_argument('--param_2', '-p2', default=20)
+    parser.add_argument('--param_1', '-p1', default=10, type=int)
+    parser.add_argument('--param_2', '-p2', default=20, type=int)
     args = parser.parse_args()
 
     main(param_1=args.param1, param_2=args.param_2)
-    
