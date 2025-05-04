@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/01fd7a1999b34c57a0b2fa48542bdb79/artifacts
+deleted_time: 1746385093600
 end_time: 1746384729145
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 01fd7a1999b34c57a0b2fa48542bdb79
 run_name: rumbling-moose-884
 run_uuid: 01fd7a1999b34c57a0b2fa48542bdb79

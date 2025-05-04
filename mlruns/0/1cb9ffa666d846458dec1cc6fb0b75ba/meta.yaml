@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/1cb9ffa666d846458dec1cc6fb0b75ba/artifacts
+deleted_time: 1746385093601
 end_time: 1746384687888
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1cb9ffa666d846458dec1cc6fb0b75ba
 run_name: gregarious-cat-782
 run_uuid: 1cb9ffa666d846458dec1cc6fb0b75ba
