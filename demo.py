@@ -2,7 +2,7 @@ import os
 import mlflow
 import argparse
 
-mlflow.set_tracking_uri("file://" + os.path.abspath("mlruns"))  # ✅ force local logging
+mlflow.set_tracking_uri("file://" + os.path.abspath("mlruns"))  
 
 def eval(param_1, param_2):
     return (param_1 + param_2)/2
