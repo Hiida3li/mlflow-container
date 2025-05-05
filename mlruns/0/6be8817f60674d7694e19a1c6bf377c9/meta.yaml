@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/6be8817f60674d7694e19a1c6bf377c9/artifacts
+deleted_time: 1746385253344
 end_time: 1746384837079
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6be8817f60674d7694e19a1c6bf377c9
 run_name: burly-shrew-750
 run_uuid: 6be8817f60674d7694e19a1c6bf377c9
