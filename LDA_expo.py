@@ -1,4 +1,6 @@
 import os
 import mlflow
+import argparse
 
-lda_expo = mlflow.set_experiment()
+mlflow.set_tracking_uri("file://" + os.path.abspath("mlruns"))  
+
